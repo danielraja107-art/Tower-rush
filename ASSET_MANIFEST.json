@@ -1,0 +1,240 @@
+{
+  "assets": [],
+  "scanned_files": [
+    {
+      "asset_kind": "page",
+      "path": ".git/COMMIT_EDITMSG",
+      "sha256": "11996441588417a27af10cd7c5e6abdb570f18b1c00048fb39a2e0775279736c",
+      "size_bytes": 15
+    },
+    {
+      "asset_kind": "page",
+      "path": ".git/FETCH_HEAD",
+      "sha256": "1784656e1b96a0a47420b9a6a8f7813d7aa0313f50742896a6674c1d710e9d6b",
+      "size_bytes": 107
+    },
+    {
+      "asset_kind": "page",
+      "path": ".git/HEAD",
+      "sha256": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80",
+      "size_bytes": 21
+    },
+    {
+      "asset_kind": "page",
+      "path": ".git/config",
+      "sha256": "53484615678db4d133c4c1c7b97511970b9c17f3a53fb9b95fdb08621c0f3969",
+      "size_bytes": 272
+    },
+    {
+      "asset_kind": "page",
+      "path": ".git/description",
+      "sha256": "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee",
+      "size_bytes": 73
+    },
+    {
+      "asset_kind": "file",
+      "path": ".git/hooks/applypatch-msg.sample",
+      "sha256": "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7",
+      "size_bytes": 478
+    },
+    {
+      "asset_kind": "file",
+      "path": ".git/hooks/commit-msg.sample",
+      "sha256": "efc1401b0e99d1ff51494d154d98b46c1e99059bcd8bf9f73cecde19fd3eb23b",
+      "size_bytes": 1972
+    },
+    {
+      "asset_kind": "file",
+      "path": ".git/hooks/fsmonitor-watchman.sample",
+      "sha256": "9159720099ad5595b8e66645cbfd47763c1e920f46e0b50ae75e642bbec57ef0",
+      "size_bytes": 4611
+    },
+    {
+      "asset_kind": "file",
+      "path": ".git/hooks/post-update.sample",
+      "sha256": "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5",
+      "size_bytes": 189
+    },
+    {
+      "asset_kind": "file",
+      "path": ".git/hooks/pre-applypatch.sample",
+      "sha256": "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475",
+      "size_bytes": 424
+    },
+    {
+      "asset_kind": "file",
+      "path": ".git/hooks/pre-commit.sample",
+      "sha256": "57185b7b9f05239d7ab52db045f5b89eb31348d7b2177eab214f5eb872e1971b",
+      "size_bytes": 1649
+    },
+    {
+      "asset_kind": "file",
+      "path": ".git/hooks/pre-merge-commit.sample",
+      "sha256": "d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53",
+      "size_bytes": 416
+    },
+    {
+      "asset_kind": "file",
+      "path": ".git/hooks/pre-push.sample",
+      "sha256": "ecce9c7e04d3f5dd9d8ada81753dd1d549a9634b26770042b58dda00217d086a",
+      "size_bytes": 1374
+    },
+    {
+      "asset_kind": "file",
+      "path": ".git/hooks/pre-rebase.sample",
+      "sha256": "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3",
+      "size_bytes": 4898
+    },
+    {
+      "asset_kind": "file",
+      "path": ".git/hooks/pre-receive.sample",
+      "sha256": "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989",
+      "size_bytes": 544
+    },
+    {
+      "asset_kind": "file",
+      "path": ".git/hooks/prepare-commit-msg.sample",
+      "sha256": "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619",
+      "size_bytes": 1492
+    },
+    {
+      "asset_kind": "file",
+      "path": ".git/hooks/push-to-checkout.sample",
+      "sha256": "a53d0741798b287c6dd7afa64aee473f305e65d3f49463bb9d7408ec3b12bf5f",
+      "size_bytes": 2783
+    },
+    {
+      "asset_kind": "file",
+      "path": ".git/hooks/sendemail-validate.sample",
+      "sha256": "44ebfc923dc5466bc009602f0ecf067b9c65459abfe8868ddc49b78e6ced7a92",
+      "size_bytes": 2308
+    },
+    {
+      "asset_kind": "file",
+      "path": ".git/hooks/update.sample",
+      "sha256": "8d5f2fa83e103cf08b57eaa67521df9194f45cbdbcb37da52ad586097a14d106",
+      "size_bytes": 3650
+    },
+    {
+      "asset_kind": "page",
+      "path": ".git/index",
+      "sha256": "a5ab8995fa8872b85fafacf08642476634cce4228d807d264f1b34c3f98bba9d",
+      "size_bytes": 304
+    },
+    {
+      "asset_kind": "page",
+      "path": ".git/info/exclude",
+      "sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+      "size_bytes": 240
+    },
+    {
+      "asset_kind": "page",
+      "path": ".git/logs/HEAD",
+      "sha256": "4122f3149b414bead72da2a2eea07c98ba60f8588c9e9ef65ead42ac697be104",
+      "size_bytes": 568
+    },
+    {
+      "asset_kind": "page",
+      "path": ".git/logs/refs/heads/main",
+      "sha256": "cebb0e06e6a1b47418d6ee805689f29fff5f0af77946cd2a78f5adfe4de4167c",
+      "size_bytes": 372
+    },
+    {
+      "asset_kind": "page",
+      "path": ".git/logs/refs/remotes/origin/HEAD",
+      "sha256": "4d552d65f34a7ac2286aad95a4e8cbf942aea87ae11ae1c441a47adb5d1ea268",
+      "size_bytes": 149
+    },
+    {
+      "asset_kind": "page",
+      "path": ".git/logs/refs/remotes/origin/main",
+      "sha256": "725664a3302850f9387fe475a3e5e50e1fc609d0663dd1cf3b4ba292c0132095",
+      "size_bytes": 158
+    },
+    {
+      "asset_kind": "page",
+      "path": ".git/objects/28/74e718632792c078e5f79bf117f0e5f006ed3b",
+      "sha256": "e738500a855b6efc04b0153a6f07998a439a8602e96545eac2b9ac33a78a6a44",
+      "size_bytes": 87
+    },
+    {
+      "asset_kind": "page",
+      "path": ".git/objects/6a/d8ce8f54f6eca4559e6549f225d75337077691",
+      "sha256": "34d3bcb913c90573eb51fe8b7c77917542f605c8ebeb7ee8537119f3f8378541",
+      "size_bytes": 101
+    },
+    {
+      "asset_kind": "page",
+      "path": ".git/objects/9b/bb15e470bb901f8f4d6a2bbf28e4b599f56ffd",
+      "sha256": "fd974a852992dab5b5cf5011c74fa1aeb576de0d156e1979380212cefebaf3b3",
+      "size_bytes": 140
+    },
+    {
+      "asset_kind": "page",
+      "path": ".git/objects/9c/4d151be228d101699e425fbe9046198454d2dc",
+      "sha256": "0d03dc5e9d25d1069799666a4f4c6abc16f1cfb7776768b7177fc9ce1e2785e6",
+      "size_bytes": 15943
+    },
+    {
+      "asset_kind": "page",
+      "path": ".git/objects/c7/e638939d6679ba18d4355b83037de580c8c98a",
+      "sha256": "85499f21e5e82ba4e3979d348bcc0159759a16b9837639e546fe2b5b978def4d",
+      "size_bytes": 13951
+    },
+    {
+      "asset_kind": "page",
+      "path": ".git/objects/d0/afd727547ec79f4493781ac24c3b06724d094e",
+      "sha256": "2fcbe438c6c0ae373addcbe93c69ab4b1d498867468da7ffa7a17cf49869a133",
+      "size_bytes": 200
+    },
+    {
+      "asset_kind": "page",
+      "path": ".git/objects/e7/51dc379a177dbb7e491e492a3ccf367ac44230",
+      "sha256": "b362405e98906a02e09f2e49eaf6e41687520d6aae170a2b2a1494cf897fbce1",
+      "size_bytes": 18115
+    },
+    {
+      "asset_kind": "page",
+      "path": ".git/opencode",
+      "sha256": "96c04cf302aba4ddc9da33728733c2cd34cb152438edfaab677846192b11d89a",
+      "size_bytes": 40
+    },
+    {
+      "asset_kind": "page",
+      "path": ".git/refs/heads/main",
+      "sha256": "f36f0849c2da5c2e3941bf4f7295603d207e111596b4f588309116acb25b058f",
+      "size_bytes": 41
+    },
+    {
+      "asset_kind": "page",
+      "path": ".git/refs/remotes/origin/HEAD",
+      "sha256": "2bb6a24aa0fc6c484100f5d51a29bbad841cd2c755f5d93faa204e5dbb4eb2b4",
+      "size_bytes": 30
+    },
+    {
+      "asset_kind": "page",
+      "path": ".git/refs/remotes/origin/main",
+      "sha256": "f36f0849c2da5c2e3941bf4f7295603d207e111596b4f588309116acb25b058f",
+      "size_bytes": 41
+    },
+    {
+      "asset_kind": "page",
+      "path": ".gitignore",
+      "sha256": "d46c20ae9137ae0ba8154bfca8ea930a5441ec0d9fa64ec36bfbe1a728401374",
+      "size_bytes": 201
+    },
+    {
+      "asset_kind": "file",
+      "path": "docs/AGENTS.md",
+      "sha256": "f0f1907e31b6c4119f08959b1ba887dc8d72f86263883e6e5b990a4512109c56",
+      "size_bytes": 26103
+    },
+    {
+      "asset_kind": "file",
+      "path": "docs/TOWER_RUSH_MASTER.md",
+      "sha256": "fca5242af316dd6a573a1043dfa37aeb7db61deb9f7caab297befe210e8bacd9",
+      "size_bytes": 29418
+    }
+  ],
+  "version": 1
+}
